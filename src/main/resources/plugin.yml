@@ -1,0 +1,4 @@
+name: DragonCore
+version: '${project.version}'
+main: de.dragonrex.dragoncore.DragonCore
+api-version: 1.18
